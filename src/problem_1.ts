@@ -12,8 +12,11 @@
         }
         return sum;
     }
+/*
+const numbers =[1,2,4,56,7,435];
+console.log(sumArray(numbers));
 
-    const numbers =[1,2,4,56,7,435];
-    console.log(sumArray(numbers));
+*/
+    
   }
   

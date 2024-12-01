@@ -11,5 +11,9 @@
         }
         return count;
     }
+     /*
     console.log(countWordOccurrences("I love typescript typescript", "typescript"));
+    */
+
+
 }

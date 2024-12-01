@@ -11,7 +11,10 @@
     const person3 = { name: "TOhid", age: 32 };
     const person4 = { name: "Kmala", age: 55 };
 
+
+     /*
     console.log(getProperty(person1, "name"));
     console.log(getProperty(person3, "age"));
     console.log(getProperty(person4, "name"));
+    */
 }
